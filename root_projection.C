@@ -1,9 +1,0 @@
-{
-Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_197",8.0,12.0);
-Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_591",28.0,32.0);
-Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_890",43.0,47.0);
-Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_1030",50.0,54.0);
-Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_2675",132.0,136.0);
-Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_2905",144.0,148.0);
-Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_3920",195.0,199.0);
-}
