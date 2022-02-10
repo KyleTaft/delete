@@ -1,0 +1,12 @@
+{
+Oslo2D_Fe71_bkgsub_total->ProjectionY("projectY_270",12.0,16.0);
+Oslo2D_Fe71_bkgsub_total->ProjectionY("projectY_390",18.0,22.0);
+Oslo2D_Fe71_bkgsub_total->ProjectionY("projectY_570",27.0,31.0);
+Oslo2D_Fe71_bkgsub_total->ProjectionY("projectY_690",33.0,37.0);
+Oslo2D_Fe71_bkgsub_total->ProjectionY("projectY_780",38.0,42.0);
+Oslo2D_Fe71_bkgsub_total->ProjectionY("projectY_830",40.0,44.0);
+Oslo2D_Fe71_bkgsub_total->ProjectionY("projectY_920",45.0,49.0);
+Oslo2D_Fe71_bkgsub_total->ProjectionY("projectY_1210",59.0,63.0);
+Oslo2D_Fe71_bkgsub_total->ProjectionY("projectY_1830",90.0,94.0);
+Oslo2D_Fe71_bkgsub_total->ProjectionY("projectY_1970",97.0,101.0);
+}
