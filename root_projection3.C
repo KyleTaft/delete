@@ -1,0 +1,17 @@
+{
+Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_140",6.0,10.0);
+Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_195",8.0,12.0);
+Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_300",14.0,18.0);
+Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_380",18.0,22.0);
+Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_480",23.0,27.0);
+Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_600",29.0,33.0);
+Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_895",43.0,47.0);
+Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_1035",50.0,54.0);
+Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_1195",58.0,62.0);
+Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_1500",74.0,78.0);
+Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_2675",132.0,136.0);
+Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_2905",144.0,148.0);
+Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_3320",165.0,169.0);
+Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_3915",194.0,198.0);
+Oslo2D_Fe69_bkgsub_total->ProjectionX("projectX_4250",211.0,215.0);
+}
